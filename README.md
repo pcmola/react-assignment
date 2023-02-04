@@ -17,4 +17,4 @@
 브라우저가 자동으로 열리며 다음 URL로 연결하게 됩니다.\
 [http://localhost:3000](http://localhost:3000)
 
-<img width="1022" alt="screenshot" src="https://user-images.githubusercontent.com/20479087/216771116-8c0f1b83-4206-4ab4-ac30-1fc2da9779bf.png">
+<img width="1654" alt="screenshot2" src="https://user-images.githubusercontent.com/20479087/216771261-9c34d719-f753-459c-b7d7-e8b3821a3518.png">
