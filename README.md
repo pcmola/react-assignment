@@ -22,4 +22,4 @@ React: V18.2.0
 
 상점 페이지에서는 상품 추가 및 삭제가 가능합니다.
 
-<img width="1654" alt="screenshot2" src="https://user-images.githubusercontent.com/20479087/216771261-9c34d719-f753-459c-b7d7-e8b3821a3518.png">
+<img width="1654" alt="screenshot2" src="https://user-images.githubusercontent.com/20479087/221324616-0d6d5727-5b01-4c57-8328-e014551a919f.png">
