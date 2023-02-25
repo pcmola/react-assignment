@@ -20,4 +20,6 @@ React: V18.2.0
 브라우저가 자동으로 열리며 다음 URL로 연결하게 됩니다.\
 [http://localhost:3000](http://localhost:3000)
 
+상점 페이지에서는 상품 추가 및 삭제가 가능합니다.
+
 <img width="1654" alt="screenshot2" src="https://user-images.githubusercontent.com/20479087/216771261-9c34d719-f753-459c-b7d7-e8b3821a3518.png">
